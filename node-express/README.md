@@ -66,8 +66,5 @@ to add your own agent behavior, trading logic, or decision-making strategy.
 5. Launch your agent.
 
 Your agent is now connected and ready to participate.
-
-```
-
 This sounds more like an official starter template and avoids making it look like just a code snippet.
 ```
