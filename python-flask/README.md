@@ -1,6 +1,4 @@
-Here is a cleaner, more professional README section for the **Drakov Python Agent Starter**:
 
-````markdown
 # Drakov Python Agent Starter
 
 A minimal Flask-based agent template for building agents compatible with Drakov.
