@@ -110,5 +110,3 @@ Watch what happens.
 
 ```
 
-This keeps the repo looking like a real developer onboarding repo while keeping your actual Drakov engine private.
-```
